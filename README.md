@@ -12,7 +12,7 @@ The actual source code for this project is hosted at a private repository:
 
 **[github.com/asherlewis-uk/extrpmpt](https://github.com/asherlewis-uk/extrpmpt)**
 
-If you visit that link without the necessary permissions, GitHub will return a **404 error**. This is expected behaviour — the repository exists but is restricted to authorised collaborators only.
+If you visit that link without the necessary permissions, GitHub will return a **404 error**. This is expected behavior — the repository exists but is restricted to authorized collaborators only.
 
 ## 🔑 Requesting Access
 
